@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @SattanRea
-- 👀 I’m interested in learn code
-- 🌱 I’m currently learning security
+-  Hi, I’m @SattanRea
+-Wellcome Hell
 -Hell Yeah!
